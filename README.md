@@ -49,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2716-minimize-string-length](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2716-minimize-string-length) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
