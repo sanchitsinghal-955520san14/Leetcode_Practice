@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3731-find-missing-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-minimize-string-length](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2716-minimize-string-length) |
 | [3731-find-missing-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3945-digit-frequency-score) |
@@ -68,13 +70,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3731-find-missing-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3731-find-missing-elements) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
 |  |
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 <!---LeetCode Topics End-->
