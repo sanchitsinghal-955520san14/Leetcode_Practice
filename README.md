@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0437-path-sum-iii](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0437-path-sum-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0897-increasing-order-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Depth-First Search
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0437-path-sum-iii](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0437-path-sum-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0897-increasing-order-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Breadth-First Search
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0437-path-sum-iii](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0437-path-sum-iii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0897-increasing-order-search-tree](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0897-increasing-order-search-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Math
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0897-increasing-order-search-tree](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0897-increasing-order-search-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Greedy
@@ -82,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+## Stack
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
