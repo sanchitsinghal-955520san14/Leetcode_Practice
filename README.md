@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-minimize-string-length](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2716-minimize-string-length) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3731-find-missing-elements) |
 | [3945-digit-frequency-score](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3945-digit-frequency-score) |
 ## Tree
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3731-find-missing-elements) |
 ## Binary Search Tree
 |  |
