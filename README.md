@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [3945-digit-frequency-score](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -73,11 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
 ## Sorting
 |  |
