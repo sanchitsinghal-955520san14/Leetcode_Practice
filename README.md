@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0058-length-of-last-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2716-minimize-string-length](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2716-minimize-string-length) |
 ## Linked List
