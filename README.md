@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0002-add-two-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3945-digit-frequency-score](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3945-digit-frequency-score) |
 ## String
 |  |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2208-minimum-operations-to-halve-array-sum) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
