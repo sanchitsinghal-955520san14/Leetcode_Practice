@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3870-count-commas-in-range](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3945-digit-frequency-score](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3945-digit-frequency-score) |
 ## String
