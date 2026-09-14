@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Enumeration
 |  |
@@ -165,4 +167,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0200-number-of-islands) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
