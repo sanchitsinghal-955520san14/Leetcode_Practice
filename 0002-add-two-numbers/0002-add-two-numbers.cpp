@@ -14,7 +14,7 @@ public:
        return solve(l1,l2,0);
     }
     ListNode* solve(ListNode* l1,ListNode*l2,int carry){
-        if(l1==nullptr && l2==nullptr && carry==0){
+       if(l1==nullptr && l2==nullptr && carry==0){
             return nullptr;
         }
         int sum=carry;
