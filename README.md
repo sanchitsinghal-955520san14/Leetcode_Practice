@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0058-length-of-last-word) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2716-minimize-string-length](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2716-minimize-string-length) |
@@ -185,4 +187,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
