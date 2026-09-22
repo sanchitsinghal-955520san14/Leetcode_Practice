@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0200-number-of-islands) |
+| [0347-top-k-frequent-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -157,11 +160,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2208-minimum-operations-to-halve-array-sum) |
 ## Enumeration
 |  |
@@ -185,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -210,4 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0724-find-pivot-index) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
