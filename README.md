@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1609-even-odd-tree](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1325-delete-leaves-with-a-given-value) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1302-deepest-leaves-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1302-deepest-leaves-sum) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
+| [1325-delete-leaves-with-a-given-value](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1325-delete-leaves-with-a-given-value) |
 | [1609-even-odd-tree](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1609-even-odd-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Math
