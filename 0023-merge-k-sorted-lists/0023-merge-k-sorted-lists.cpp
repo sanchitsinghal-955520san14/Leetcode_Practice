@@ -12,7 +12,7 @@ class Solution {
 public:
     ListNode* mergeKLists(vector<ListNode*>& lists) {
        vector<int> temp;
-       for(auto head:lists){
+       for(auto head:lists){//head will traverse each ll to avoid O(n^2)complexity
         while(head !=nullptr){
             temp.push_back(head->val);
             head=head->next;
