@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3875-construct-uniform-parity-array-i) |
