@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0242-valid-anagram](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
