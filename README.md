@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0678-valid-parenthesis-string](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2716-minimize-string-length](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2716-minimize-string-length) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0897-increasing-order-search-tree) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Counting
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
