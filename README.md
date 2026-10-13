@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3731-find-missing-elements) |
 ## Binary Search Tree
 |  |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
