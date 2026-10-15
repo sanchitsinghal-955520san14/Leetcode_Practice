@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0002-add-two-numbers) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3270-find-the-key-of-the-numbers](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3870-count-commas-in-range) |
