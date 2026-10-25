@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2208-minimum-operations-to-halve-array-sum) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Floyd's Cycle Finding Algorithm
 |  |
