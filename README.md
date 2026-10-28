@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0724-find-pivot-index) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2208-minimum-operations-to-halve-array-sum](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2208-minimum-operations-to-halve-array-sum) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0234-palindrome-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Hash Table
@@ -176,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0347-top-k-frequent-elements) |
+| [0977-squares-of-a-sorted-array](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
