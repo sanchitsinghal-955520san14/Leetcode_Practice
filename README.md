@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3270-find-the-key-of-the-numbers](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3270-find-the-key-of-the-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3870-count-commas-in-range) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3360-stone-removal-game](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/sanchitsinghal-955520san14/Leetcode_Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Prefix Sum
 |  |
